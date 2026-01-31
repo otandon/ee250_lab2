@@ -1,3 +1,9 @@
+# Lab 2
+
+## Team Members
+- Om Tandon
+
+## Lab Question Answers
 Question 1: 
 1
 4
