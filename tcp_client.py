@@ -11,7 +11,7 @@ def main():
     # TODO: Create a socket and connect it to the server at the designated IP and port
     # TODO: Get user input and send it to the server using your TCP socket
     # TODO: Receive a response from the server and close the TCP connection
-    HOST = "localhost"
+    HOST = "localhost" # or RPI IP address for RPI as server
     PORT = 5000
 
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
